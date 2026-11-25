@@ -1,0 +1,45 @@
+# Privacy Policy — SpotRemind
+
+**Last updated:** November 25, 2026
+
+SpotRemind ("the app") is developed by AlifBay as part of the AlifBay KhairHub ecosystem. This policy explains what data the app uses and how it is handled.
+
+## What the app does
+
+SpotRemind lets you set reminders tied to physical places. When your device enters or leaves an area you defined, the app shows you a local notification with your reminder message.
+
+## Location data
+
+To make location-based reminders work, the app accesses your device's location, **including in the background** while the app is closed, so it can detect when you arrive at, stay in, or leave a saved place.
+
+- Your location is processed **on your device only**.
+- Your location is **never** transmitted to our servers or any third party.
+- We do **not** store a history of where you have been.
+- Location is used **only** to compare your current position against the reminders you created.
+
+## Data storage
+
+All of your data — your reminders, coordinates, messages, schedules, checklists, and settings — is stored **locally on your device** using your operating system's standard local storage. We do not operate a backend server that receives this data. Uninstalling the app or deleting reminders in the app removes this data.
+
+## Maps
+
+The app uses Google Maps to let you pick and view locations. Your use of the map is subject to Google's Privacy Policy (https://policies.google.com/privacy) and the Google Maps Platform terms.
+
+## Permissions we request
+
+- **Location (including background / "Allow all the time"):** required to detect arrival at or departure from your saved places while the app is closed.
+- **Notifications:** required to deliver your location reminders and quick actions.
+
+You can revoke these permissions at any time in your device settings. Doing so will stop location reminders from working.
+
+## Children's privacy
+
+The app is not directed to children under 13 and does not knowingly collect personal data from children.
+
+## Changes to this policy
+
+We may update this policy from time to time. Material changes will be reflected by the "Last updated" date above.
+
+## Contact
+
+If you have any questions about this Privacy Policy, contact us at: **support@alifbay.in**
